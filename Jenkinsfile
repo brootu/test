@@ -17,7 +17,7 @@ pipeline {
     }
     stage('test2') {
       steps {
-        load '11233'
+        load '321'
       }
     }
   }
